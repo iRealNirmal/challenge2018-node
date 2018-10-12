@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5bbe295b3251c503f425d61e"},"id":"1","parentId":"1","name":"food","price":"299","rewards":"20"}
+{"_id":{"$oid":"5bbe29b83251c503f425d61f"},"id":"2","parentId":"1","name":"buffet","price":"499","rewards":"40"}
+{"_id":{"$oid":"5bbe2a593251c503f425d620"},"id":"3","parentId":"3","name":"lunch","price":"599","rewards":"50"}
+{"_id":{"$oid":"5bbe2a6e3251c503f425d621"},"id":"4","parentId":"1","name":"dinner","price":"699","rewards":"60"}
